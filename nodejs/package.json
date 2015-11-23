@@ -1,0 +1,13 @@
+{
+  "name": "qrcopypaste",
+  "description": "Copy and Paste app using QR Codes",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "ws": "*",
+    "uuid": "*",
+    "body-parser": "*",
+    "http": "*"
+  }
+}
